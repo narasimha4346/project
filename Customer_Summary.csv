@@ -1,0 +1,5 @@
+,CustomerID,CustomerName,Region,SignupDate
+count,200,200,200,200
+unique,200,200,4,179
+top,C0001,Lawrence Carroll,South America,2024-11-11
+freq,1,1,59,3

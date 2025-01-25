@@ -1,0 +1,12 @@
+,ProductID,ProductName,Category,Price
+count,100,100,100,100.0
+unique,100,66,4,
+top,P001,ActiveWear Smartwatch,Books,
+freq,1,4,26,
+mean,,,,267.55170000000004
+std,,,,143.21938309125758
+min,,,,16.08
+25%,,,,147.76749999999998
+50%,,,,292.875
+75%,,,,397.09
+max,,,,497.76
